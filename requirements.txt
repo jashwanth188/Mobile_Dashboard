@@ -1,0 +1,5 @@
+Database:The project assumes you have a relational database containing mobile sales, customer, and product data.
+SQL Tool: You will need a tool to run SQL queries such as:
+MySQL Workbench
+SQL Server Management Studio (SSMS)
+PostgreSQL or any other SQL-compatible database tool.
